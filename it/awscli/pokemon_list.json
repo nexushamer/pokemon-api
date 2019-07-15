@@ -1,0 +1,139 @@
+{
+ "pokemon": [
+        {
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "1"
+    },
+        "name": {
+            "S": "Bulbasaur"
+        },
+        "type": {
+            "S": "Plant"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "2"
+    },
+        "name": {
+            "S": "ivysaur"
+        },
+        "type": {
+            "S": "Plant"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "3"
+    },
+        "name": {
+            "S": "Venusaur"
+        },
+        "type": {
+            "S": "Plant"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "4"
+    },
+        "name": {
+            "S": "Charmander"
+        },
+        "type": {
+            "S": "Fire"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "5"
+    },
+        "name": {
+            "S": "Charmeleon"
+        },
+        "type": {
+            "S": "Fire"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "6"
+    },
+        "name": {
+            "S": "Charizard"
+        },
+        "type": {
+            "S": "Fire"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "7"
+    },
+        "name": {
+            "S": "Squirtle"
+        },
+        "type": {
+            "S": "Water"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "8"
+    },
+        "name": {
+            "S": "Wartortle"
+        },
+        "type": {
+            "S": "Water"
+        }
+}
+			}
+		},
+		{
+            "PutRequest": {
+                "Item":{
+    "id": {
+            "S": "9"
+    },
+        "name": {
+            "S": "Blastoise"
+        },
+        "type": {
+            "S": "Water"
+        }
+}
+			}
+		}
+	]
+}
